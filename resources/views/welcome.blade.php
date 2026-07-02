@@ -13,7 +13,7 @@
         <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('assets/img/favicon/favicon-16x16.png') }}">
         <link rel="manifest" href="{{ asset('assets/img/favicon/site.webmanifest') }}">
 
-        <title>Baquiz REST APIs</title>
+        <title>Baquiz platform</title>
 
         <!-- Styles / Scripts -->
         @if (file_exists(public_path('build/manifest.json')) || file_exists(public_path('hot')))
